@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a2c0221e93d06f0f28ab750893b007f",
+    "revision": "4d34ae95c383ba8e57dbc54227ae0173",
     "url": "/starWarsMeetsAnalytics/index.html"
   },
   {
-    "revision": "087d8b5a72fc1fde65c8",
+    "revision": "115f78313f80453582c1",
     "url": "/starWarsMeetsAnalytics/static/css/main.608958ff.chunk.css"
   },
   {
-    "revision": "b4598d884556e2e98fda",
-    "url": "/starWarsMeetsAnalytics/static/js/2.14bfbf56.chunk.js"
+    "revision": "35ba4b042e44538c4f7e",
+    "url": "/starWarsMeetsAnalytics/static/js/2.e8f30abe.chunk.js"
   },
   {
     "revision": "292186139ac9474ee24a17d731964152",
-    "url": "/starWarsMeetsAnalytics/static/js/2.14bfbf56.chunk.js.LICENSE.txt"
+    "url": "/starWarsMeetsAnalytics/static/js/2.e8f30abe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "087d8b5a72fc1fde65c8",
-    "url": "/starWarsMeetsAnalytics/static/js/main.6d9275b5.chunk.js"
+    "revision": "115f78313f80453582c1",
+    "url": "/starWarsMeetsAnalytics/static/js/main.f5b1aa7c.chunk.js"
   },
   {
     "revision": "bc99d861da642666a77b",

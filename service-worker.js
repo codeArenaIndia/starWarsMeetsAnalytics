@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/starWarsMeetsAnalytics/precache-manifest.a4d159ebc544d0338b71e3bed6167a0a.js"
+  "/starWarsMeetsAnalytics/precache-manifest.f0a0219d122f22ae0cc74fd244ecac6d.js"
 );
 
 self.addEventListener('message', (event) => {
