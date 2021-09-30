@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/starWarsMeetsAnalytics/static/css/main.608958ff.chunk.css",
+    "main.js": "/starWarsMeetsAnalytics/static/js/main.6d9275b5.chunk.js",
+    "main.js.map": "/starWarsMeetsAnalytics/static/js/main.6d9275b5.chunk.js.map",
+    "runtime-main.js": "/starWarsMeetsAnalytics/static/js/runtime-main.3d04ba74.js",
+    "runtime-main.js.map": "/starWarsMeetsAnalytics/static/js/runtime-main.3d04ba74.js.map",
+    "static/js/2.14bfbf56.chunk.js": "/starWarsMeetsAnalytics/static/js/2.14bfbf56.chunk.js",
+    "static/js/2.14bfbf56.chunk.js.map": "/starWarsMeetsAnalytics/static/js/2.14bfbf56.chunk.js.map",
+    "index.html": "/starWarsMeetsAnalytics/index.html",
+    "precache-manifest.eb6781e41bb0e767e68e4ad48fb11335.js": "/starWarsMeetsAnalytics/precache-manifest.eb6781e41bb0e767e68e4ad48fb11335.js",
+    "service-worker.js": "/starWarsMeetsAnalytics/service-worker.js",
+    "static/css/main.608958ff.chunk.css.map": "/starWarsMeetsAnalytics/static/css/main.608958ff.chunk.css.map",
+    "static/js/2.14bfbf56.chunk.js.LICENSE.txt": "/starWarsMeetsAnalytics/static/js/2.14bfbf56.chunk.js.LICENSE.txt",
+    "static/media/Planets.css": "/starWarsMeetsAnalytics/static/media/planet.71c14ba9.jpg",
+    "static/media/Login.css": "/starWarsMeetsAnalytics/static/media/yoda_transparent.a1288c35.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d04ba74.js",
+    "static/js/2.14bfbf56.chunk.js",
+    "static/css/main.608958ff.chunk.css",
+    "static/js/main.6d9275b5.chunk.js"
+  ]
+}
