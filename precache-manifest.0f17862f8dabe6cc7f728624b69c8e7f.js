@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d34ae95c383ba8e57dbc54227ae0173",
+    "revision": "797101da2e736be4d5836e424fa0f579",
     "url": "/starWarsMeetsAnalytics/index.html"
   },
   {
-    "revision": "115f78313f80453582c1",
+    "revision": "27fba988ca4a72aeb9fe",
     "url": "/starWarsMeetsAnalytics/static/css/main.608958ff.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/starWarsMeetsAnalytics/static/js/2.e8f30abe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "115f78313f80453582c1",
-    "url": "/starWarsMeetsAnalytics/static/js/main.f5b1aa7c.chunk.js"
+    "revision": "27fba988ca4a72aeb9fe",
+    "url": "/starWarsMeetsAnalytics/static/js/main.8690c71c.chunk.js"
   },
   {
     "revision": "bc99d861da642666a77b",

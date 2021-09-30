@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/starWarsMeetsAnalytics/static/css/main.608958ff.chunk.css",
-    "main.js": "/starWarsMeetsAnalytics/static/js/main.f5b1aa7c.chunk.js",
-    "main.js.map": "/starWarsMeetsAnalytics/static/js/main.f5b1aa7c.chunk.js.map",
+    "main.js": "/starWarsMeetsAnalytics/static/js/main.8690c71c.chunk.js",
+    "main.js.map": "/starWarsMeetsAnalytics/static/js/main.8690c71c.chunk.js.map",
     "runtime-main.js": "/starWarsMeetsAnalytics/static/js/runtime-main.3d04ba74.js",
     "runtime-main.js.map": "/starWarsMeetsAnalytics/static/js/runtime-main.3d04ba74.js.map",
     "static/js/2.e8f30abe.chunk.js": "/starWarsMeetsAnalytics/static/js/2.e8f30abe.chunk.js",
     "static/js/2.e8f30abe.chunk.js.map": "/starWarsMeetsAnalytics/static/js/2.e8f30abe.chunk.js.map",
     "index.html": "/starWarsMeetsAnalytics/index.html",
-    "precache-manifest.f0a0219d122f22ae0cc74fd244ecac6d.js": "/starWarsMeetsAnalytics/precache-manifest.f0a0219d122f22ae0cc74fd244ecac6d.js",
+    "precache-manifest.0f17862f8dabe6cc7f728624b69c8e7f.js": "/starWarsMeetsAnalytics/precache-manifest.0f17862f8dabe6cc7f728624b69c8e7f.js",
     "service-worker.js": "/starWarsMeetsAnalytics/service-worker.js",
     "static/css/main.608958ff.chunk.css.map": "/starWarsMeetsAnalytics/static/css/main.608958ff.chunk.css.map",
     "static/js/2.e8f30abe.chunk.js.LICENSE.txt": "/starWarsMeetsAnalytics/static/js/2.e8f30abe.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.3d04ba74.js",
     "static/js/2.e8f30abe.chunk.js",
     "static/css/main.608958ff.chunk.css",
-    "static/js/main.f5b1aa7c.chunk.js"
+    "static/js/main.8690c71c.chunk.js"
   ]
 }
